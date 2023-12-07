@@ -1,0 +1,38 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b1c3a748-72e3-4884-9e27-d5568aa3d078)
+
+  (paper "B")
+
+  (title_block
+    (title "Over Kill Amplifier")
+    (date "2023-12-06")
+    (rev "0.000.001")
+    (company "Dunham Art Audio and Design")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 226.06 125.73) (size 35.56 5.08) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5ba79267-936a-4eed-a0b1-984571af36b7)
+    (property "Sheetname" "Power Amplifier Stage" (at 226.06 125.0184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PowerAmp_Stage.kicad_sch" (at 226.06 131.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OverKill Amp Electrical Project"
+        (path "/b1c3a748-72e3-4884-9e27-d5568aa3d078" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

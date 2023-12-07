@@ -1,0 +1,16 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b37accbf-da82-49cf-8c5a-e07a67fa7962)
+
+  (paper "B")
+
+  (title_block
+    (title "Over Kill Amplifier")
+    (rev "0.000.001")
+    (company "Dunham Art Audio and Design")
+  )
+
+  (lib_symbols
+  )
+
+)
